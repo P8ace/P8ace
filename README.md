@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @P8ace
-- 👀 I’m interested in, well, java now ...
-- 🌱 I’m currently learning the java full stack...
-- 💞️ I’m looking to collaborate on java ee and spring...
-- 📫 try not to reach me, please. Give a nudge here instead.
+
 
 <!---
 P8ace/P8ace is a ✨ special ✨ repository. 
